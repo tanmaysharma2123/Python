@@ -46,6 +46,7 @@ def move(moves, player1_move, randomNumber):
             return "It's a tie."
 
 
+# Main Program stars here!
 player1_move = input("Enter your move: ")
 print("-------------------------|")
 
